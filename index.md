@@ -6,4 +6,4 @@ title: MathFlow
 
 # 2. method
 
-
+## 2.2
